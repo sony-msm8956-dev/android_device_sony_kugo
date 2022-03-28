@@ -1,2 +1,0 @@
-# files in /vendor
-/(vendor|system/vendor)/bin/hvdcp_opti             u:object_r:hvdcp_exec:s0

@@ -1,2 +1,0 @@
-# /sys
-type sysfs_tof_rgbcir, sysfs_type, fs_type;
